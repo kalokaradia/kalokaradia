@@ -52,6 +52,15 @@
 
 ---
 
+### 📫 Connect with Me
+
+- 🌐 [Website](https://kalokaradiananda.my.id)
+- 📧 kalokaradia@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/kalokaradia8)
+
+
+---
+
 > **“Life is still long, keep working”**
 
 ---
