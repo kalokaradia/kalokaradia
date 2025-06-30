@@ -6,6 +6,13 @@
 
 ---
 
+### 🙌 About Me
+- 🏫 I am student at SMPN 1 Purworejo
+- 🥇 Math Olympiad Enthusiast
+- 🌐 I am very enthusiastic about web development and python development
+
+---
+
 ### 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
@@ -35,8 +42,12 @@
 
 ---
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalokaradia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 🎯 Fun Facts
-- 🔎 I'm passionate about **web development**, **math olympiads**, and **python development**.
+- 🔎 I am passionate about **web development**, **math olympiads**, and **python development**.
 - 🤓 I learned coding my laptop and pure curiousity.
 
 ---
