@@ -40,8 +40,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalokaradia&theme=tokyonight" />
 </p>
 
----
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalokaradia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -56,7 +54,7 @@
 
 - 🌐 [Website](https://kalokaradiananda.my.id)
 - 📧 kalokaradia@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/kalokaradia8)
+- 💼 [LinkedIn]([https://linkedin.com/in/kalokaradia8](https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/))
 
 
 ---
