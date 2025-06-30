@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Kaloka 👋</h1>
 
 <p align="center">
-  🔥 Junior Developer | 🧠 Framework Builder | ⚡ RAD.JS Creator
+  🔥 Junior Developer | 🌐 Website Developer | 🧠 Framework Builder
 </p>
 
 ---
@@ -24,14 +24,6 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
 </p>
 
-
----
-
-### 🚧 Current Projects
-- 🔨 Building `RAD.JS` — A custom JS framework with SPA routing and zero-dependency core.
-- 🧪 Experimenting with Supabase + Next.js on OSISPENSA DBoard remake.
-- 💬 Developing a real-time chat app using Django + React WebSocket.
-
 ---
 
 ### 📈 GitHub Stats
@@ -44,13 +36,12 @@
 ---
 
 ### 🎯 Fun Facts
-- 🔎 I'm passionate about **web development**, **math olympiads**, and **building things from scratch**.
-- 🤓 I learned coding from a hand-me-down laptop and pure curiosity.
-- 🧠 I treat learning like a tank build: strong on logic, agile in action 💥
+- 🔎 I'm passionate about **web development**, **math olympiads**, and **python development**.
+- 🤓 I learned coding my laptop and pure curiousity.
 
 ---
 
-> **“Build what you can’t find. Learn what they say is too hard.”**
+> **“Life is still long, keep working”**
 
 ---
 
