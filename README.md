@@ -54,7 +54,7 @@
 
 - 🌐 [Website](https://kalokaradiananda.my.id)
 - 📧 kalokaradia@gmail.com
-- 💼 [LinkedIn]([https://linkedin.com/in/kalokaradia8](https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/)
 
 
 ---
