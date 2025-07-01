@@ -8,8 +8,8 @@
 
 ### 🙌 About Me
 - 🏫 I am student at SMPN 1 Purworejo
-- 🥇 Math Olympiad Enthusiast
-- 🌐 I am very enthusiastic about web development and python development
+- 🥇 Math olympiad enthusiast
+- 🌐 I am enthusiast about web development and python development
 
 ---
 
