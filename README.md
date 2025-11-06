@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Kaloka 👋</h1>
 
 <p align="center">
-  🔥 Junior Developer | 🌐 Website Developer | 🧠 Framework Builder | 🐍 Python Developer
+  🔥 Junior Developer | 🌐 Website Developer | 🧠 Framework & Library Builder | 🐍 Python Developer
 </p>
 
 ---
