@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-PostgreeSQL-4479A1?logo=postgreesql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat" />
