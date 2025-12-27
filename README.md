@@ -1,4 +1,4 @@
-<img src="https://kalokaradiananda.vercel.app/_next/image?url=%2Favatar.jpeg&w=640&q=75" />
+<img src="https://kalokaradiananda.vercel.app/_next/image?url=%2Favatar.jpeg&w=640&q=75" style="width: 100px; height: 100px; border-radius: 100%" />
 
 <h1 align="center">Hey there, I'm Kaloka 👋</h1>
 
