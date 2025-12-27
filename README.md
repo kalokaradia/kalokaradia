@@ -1,13 +1,3 @@
-<div align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/169821063?s=400&u=a02f9e90a5b3b7f780fba8c989c9aca01f3dc945&v=4"
-    width="100"
-    height="100"
-    style="border-radius: 50%;"
-  />
-</div>
-
-
 <h1 align="center">Hey there, I'm Kaloka 👋</h1>
 
 <p align="center">
