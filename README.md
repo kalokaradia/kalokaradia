@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Nuxt-4FC08D?logo=vue.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Nuxt-4FC08D?logo=nuxt&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-[Nuxt.js](guide://action?prefill=Tell%20me%20more%20about%3A%20Nuxt.js)-00DC82?logo=nuxt.js&logoColor=white&style=flat" />
 </p>
 
