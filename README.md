@@ -1,75 +1,84 @@
-<h1 align="center">
-  Kaloka Radia Nanda
-</h1>
+<h1 align="center">Kaloka Radia Nanda</h1>
 
 <p align="center">
   Student Developer · Web Engineer · Tool & Framework Builder
 </p>
 
 <p align="center">
-  <a href="https://kalokaradiananda.my.id">Website</a> ·
-  <a href="mailto:kalokaradia@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/">LinkedIn</a>
+  <a href="https://kalokaradiananda.my.id">🌐 Website</a> ·
+  <a href="mailto:kalokaradia@gmail.com">📧 Email</a> ·
+  <a href="https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/">💼 LinkedIn</a>
 </p>
 
 ---
 
 ## About
 
-I'm a student from **SMPN 1 Purworejo** who enjoys building things that actually work.  
-Interested in **web engineering**, **developer tools**, and **mathematical problem solving**.
+Student at **SMPN 1 Purworejo**.  
+I build things because curiosity won’t shut up.
 
-I like clean architecture, small CLIs, and projects that solve real annoyances.  
-Memorization bores me. Logic doesn’t.
-
----
-
-## What I Focus On
-
-- 🌐 Web development (frontend & backend)
-- 🧠 Building tools, frameworks, and libraries
-- 🧮 Mathematics & problem solving
-- 🐍 Python and JavaScript ecosystems
+Focused on **web engineering**, **developer tools**, and **logic-heavy problems**.  
+Not into memorization. Very into understanding *why* things work.
 
 ---
 
-## Tech I Actually Use
+## Focus Areas
 
-**Languages**
-- JavaScript / TypeScript  
-- Python  
-- Go (for tooling & CLI experiments)
+- 🌐 Web Development  
+- 🧠 Tooling, CLI, Frameworks  
+- 🧮 Mathematics & Problem Solving  
+- 🐍 Python & JavaScript Ecosystem  
 
-**Frontend**
-- React, Vue, Svelte
-- Next.js, Nuxt, SvelteKit
-- Vite, Tailwind CSS
+---
 
-**Backend**
-- Node.js
-- Django
-- REST APIs
+## Tech Stack
 
-**Database**
-- PostgreSQL
-- MySQL
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=flat" />
+  <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=flat" />
+  <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB&style=flat" />
+  <img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=00ADD8&style=flat" />
+</p>
 
-**Tooling & DevOps**
-- Git & GitHub
-- Vercel, Netlify
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=flat" />
+  <img src="https://img.shields.io/badge/Vue-000?logo=vue.js&logoColor=4FC08D&style=flat" />
+  <img src="https://img.shields.io/badge/Svelte-000?logo=svelte&logoColor=FF3E00&style=flat" />
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Nuxt-000?logo=nuxt.js&logoColor=00DC82&style=flat" />
+  <img src="https://img.shields.io/badge/Vite-000?logo=vite&logoColor=646CFF&style=flat" />
+  <img src="https://img.shields.io/badge/Tailwind-000?logo=tailwind-css&logoColor=38B2AC&style=flat" />
+</p>
+
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933&style=flat" />
+  <img src="https://img.shields.io/badge/Django-000?logo=django&logoColor=092E20&style=flat" />
+</p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-000?logo=postgresql&logoColor=4169E1&style=flat" />
+  <img src="https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1&style=flat" />
+</p>
+
+### Tooling & Deploy
+<p>
+  <img src="https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Netlify-000?logo=netlify&logoColor=00C7B7&style=flat" />
+</p>
 
 ---
 
 ## Selected Projects
 
-- **jspackr**  
-  A fast JavaScript bundler CLI built on top of esbuild  
-  Focused on simplicity, clear output, and developer experience.
-
-- **Personal Website**  
-  Portfolio + playground for experiments and ideas.
-
-> I prefer fewer projects with real purpose over many half-finished demos.
+**jspackr**  
+JavaScript bundler CLI powered by esbuild  
+Focused on speed, clarity, and developer experience.
 
 ---
 
@@ -82,13 +91,11 @@ Memorization bores me. Logic doesn’t.
 
 ---
 
-## Fun Notes
+## Notes
 
-- Learned programming mostly from curiosity, not courses.
-- Enjoys breaking things just to understand why they break.
-- Long-term goal: build software that people actually rely on.
-
----
+- Learned coding mostly from curiosity, not courses  
+- Likes clean architecture and small, sharp tools  
+- Long-term goal: build software people actually depend on  
 
 <p align="center">
   <em>“Life is still long. Keep working.”</em>
