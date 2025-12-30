@@ -36,7 +36,7 @@ Memorizing things is boring. Understanding systems isn’t.
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26&style=flat" />
-  <img src="https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6&style=flat" />
+  <img src="https://img.shields.io/badge/CSS3-000?logo=css&logoColor=1572B6&style=flat" />
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=flat" />
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=flat" />
   <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB&style=flat" />
@@ -57,7 +57,7 @@ Memorizing things is boring. Understanding systems isn’t.
 ### Fullstack Frameworks
 <p>
   <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Nuxt-000?logo=nuxt.js&logoColor=00DC82&style=flat" />
+  <img src="https://img.shields.io/badge/Nuxt-000?logo=nuxt&logoColor=00DC82&style=flat" />
   <img src="https://img.shields.io/badge/SvelteKit-000?logo=svelte&logoColor=FF3E00&style=flat" />
 </p>
 
