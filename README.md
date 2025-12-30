@@ -36,7 +36,7 @@ Memorizing things is boring. Understanding systems isn’t.
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26&style=flat" />
-  <img src="https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6&style=flat" />
+  <img src="https://img.shields.io/badge/CSS3-000?logo=css-3&logoColor=1572B6&style=flat" />
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=flat" />
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=flat" />
   <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB&style=flat" />
