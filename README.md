@@ -1,77 +1,95 @@
-<h1 align="center">Hey there, I'm Kaloka 👋</h1>
+<h1 align="center">
+  Kaloka Radia Nanda
+</h1>
 
 <p align="center">
-  🔥 Junior Developer | 🌐 Website Developer | 🧠 Framework & Library Builder | 🐍 Python Developer
+  Student Developer · Web Engineer · Tool & Framework Builder
+</p>
+
+<p align="center">
+  <a href="https://kalokaradiananda.my.id">Website</a> ·
+  <a href="mailto:kalokaradia@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/">LinkedIn</a>
 </p>
 
 ---
 
-### 🙌 About Me
-- 🏫 I am student at SMPN 1 Purworejo
-- 🥇 Math olympiad enthusiast
-- 🌐 I am enthusiast about web development and python development
+## About
+
+I'm a student from **SMPN 1 Purworejo** who enjoys building things that actually work.  
+Interested in **web engineering**, **developer tools**, and **mathematical problem solving**.
+
+I like clean architecture, small CLIs, and projects that solve real annoyances.  
+Memorization bores me. Logic doesn’t.
 
 ---
 
-### 💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-PostgreeSQL-4479A1?logo=postgreesql&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-SvelteKit-000000?logo=svelte&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-Nuxt-4FC08D?logo=nuxt&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-[Nuxt.js](guide://action?prefill=Tell%20me%20more%20about%3A%20Nuxt.js)-00DC82?logo=nuxt.js&logoColor=white&style=flat" />
-</p>
+## What I Focus On
+
+- 🌐 Web development (frontend & backend)
+- 🧠 Building tools, frameworks, and libraries
+- 🧮 Mathematics & problem solving
+- 🐍 Python and JavaScript ecosystems
 
 ---
 
-### 📈 GitHub Stats
+## Tech I Actually Use
+
+**Languages**
+- JavaScript / TypeScript  
+- Python  
+- Go (for tooling & CLI experiments)
+
+**Frontend**
+- React, Vue, Svelte
+- Next.js, Nuxt, SvelteKit
+- Vite, Tailwind CSS
+
+**Backend**
+- Node.js
+- Django
+- REST APIs
+
+**Database**
+- PostgreSQL
+- MySQL
+
+**Tooling & DevOps**
+- Git & GitHub
+- Vercel, Netlify
+
+---
+
+## Selected Projects
+
+- **jspackr**  
+  A fast JavaScript bundler CLI built on top of esbuild  
+  Focused on simplicity, clear output, and developer experience.
+
+- **Personal Website**  
+  Portfolio + playground for experiments and ideas.
+
+> I prefer fewer projects with real purpose over many half-finished demos.
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kalokaradia&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalokaradia&theme=tokyonight" />
 </p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kalokaradia&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
-### 🎯 Fun Facts
-- 🔎 I am passionate about **web development**, **math olympiads**, and **python development**.
-- 🤓 I learned coding my laptop and pure curiousity.
+## Fun Notes
 
----
-
-### 📫 Connect with Me
-
-- 🌐 [Website](https://kalokaradiananda.my.id)
-- 📧 kalokaradia@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/)
-
-
----
-
-> **“Life is still long, keep working”**
+- Learned programming mostly from curiosity, not courses.
+- Enjoys breaking things just to understand why they break.
+- Long-term goal: build software that people actually rely on.
 
 ---
 
 <p align="center">
-  <em>Made with ❤️ by Kaloka Radia Nanda</em>
+  <em>“Life is still long. Keep working.”</em>
 </p>
