@@ -15,18 +15,18 @@
 ## About
 
 Student at **SMPN 1 Purworejo**.  
-I build things because curiosity won’t shut up.
+I build software out of curiosity and stubborn logic.
 
-Focused on **web engineering**, **developer tools**, and **logic-heavy problems**.  
-Not into memorization. Very into understanding *why* things work.
+Focused on **web engineering**, **fullstack frameworks**, and **developer tooling**.  
+Memorizing things is boring. Understanding systems isn’t.
 
 ---
 
 ## Focus Areas
 
-- 🌐 Web Development  
+- 🌐 Web & Fullstack Development  
 - 🧠 Tooling, CLI, Frameworks  
-- 🧮 Mathematics & Problem Solving  
+- 🧮 Mathematics & Logical Problem Solving  
 - 🐍 Python & JavaScript Ecosystem  
 
 ---
@@ -35,9 +35,12 @@ Not into memorization. Very into understanding *why* things work.
 
 ### Languages
 <p>
+  <img src="https://img.shields.io/badge/HTML5-000?logo=html5&logoColor=E34F26&style=flat" />
+  <img src="https://img.shields.io/badge/CSS3-000?logo=css3&logoColor=1572B6&style=flat" />
   <img src="https://img.shields.io/badge/JavaScript-000?logo=javascript&logoColor=F7DF1E&style=flat" />
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=flat" />
   <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB&style=flat" />
+  <img src="https://img.shields.io/badge/C++-000?logo=cplusplus&logoColor=00599C&style=flat" />
   <img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=00ADD8&style=flat" />
 </p>
 
@@ -46,16 +49,23 @@ Not into memorization. Very into understanding *why* things work.
   <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=flat" />
   <img src="https://img.shields.io/badge/Vue-000?logo=vue.js&logoColor=4FC08D&style=flat" />
   <img src="https://img.shields.io/badge/Svelte-000?logo=svelte&logoColor=FF3E00&style=flat" />
-  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/Nuxt-000?logo=nuxt.js&logoColor=00DC82&style=flat" />
-  <img src="https://img.shields.io/badge/Vite-000?logo=vite&logoColor=646CFF&style=flat" />
+  <img src="https://img.shields.io/badge/Sass-000?logo=sass&logoColor=CC6699&style=flat" />
+  <img src="https://img.shields.io/badge/Bootstrap-000?logo=bootstrap&logoColor=7952B3&style=flat" />
   <img src="https://img.shields.io/badge/Tailwind-000?logo=tailwind-css&logoColor=38B2AC&style=flat" />
 </p>
 
-### Backend
+### Fullstack Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Nuxt-000?logo=nuxt.js&logoColor=00DC82&style=flat" />
+  <img src="https://img.shields.io/badge/SvelteKit-000?logo=svelte&logoColor=FF3E00&style=flat" />
+</p>
+
+### Backend & ORM
 <p>
   <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933&style=flat" />
   <img src="https://img.shields.io/badge/Django-000?logo=django&logoColor=092E20&style=flat" />
+  <img src="https://img.shields.io/badge/Prisma-000?logo=prisma&logoColor=white&style=flat" />
 </p>
 
 ### Database
@@ -64,8 +74,9 @@ Not into memorization. Very into understanding *why* things work.
   <img src="https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1&style=flat" />
 </p>
 
-### Tooling & Deploy
+### Design & Tooling
 <p>
+  <img src="https://img.shields.io/badge/Figma-000?logo=figma&logoColor=F24E1E&style=flat" />
   <img src="https://img.shields.io/badge/Git-000?logo=git&logoColor=F05032&style=flat" />
   <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=flat" />
@@ -90,12 +101,6 @@ Focused on speed, clarity, and developer experience.
 </p>
 
 ---
-
-## Notes
-
-- Learned coding mostly from curiosity, not courses  
-- Likes clean architecture and small, sharp tools  
-- Long-term goal: build software people actually depend on  
 
 <p align="center">
   <em>“Life is still long. Keep working.”</em>
