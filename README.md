@@ -18,9 +18,8 @@
 - Enjoys logic, math, and problem solving  
 - Learning by building real projects (and breaking them first)
 
-### GitHub Stats
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/kalokaradia?cardType=github&theme=vue-dark&fontFamily=Poppins&preferLogin=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalokaradia&theme=tokyonight" />
+<!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kalokaradia?cardType=github&theme=vue-dark&fontFamily=Poppins&preferLogin=true" /> -->
+<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalokaradia&theme=tokyonight" /> -->
 
 ### Languages & Tools
 <p>
@@ -43,18 +42,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36"/>
 </p>
 
-### 🔗 Connect with Me
+### Connect with Me
 
 <p align="left">
-  <a href="mailto:EMAIL_KAMU@gmail.com">
+  <a href="mailto:kalokaradia@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="36"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+  <a href="https://instagram.com/kalokaradia" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="36"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
+  <a href="https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36"/>
   </a>
 </p>
