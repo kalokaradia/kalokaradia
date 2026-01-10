@@ -12,11 +12,9 @@
 
 ### About Me
 
-- Student, learning software engineering step by step  
-- Focused on web development (frontend & backend)  
-- Interested in tooling, CLI, and how systems work  
-- Enjoys logic, math, and problem solving  
-- Learning by building real projects (and breaking them first)
+- Student at SMPN 1 Purworejo.
+- Interested in mathematics.
+- Focused on web development and tool development.
 
 <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kalokaradia?cardType=github&theme=vue-dark&fontFamily=Poppins&preferLogin=true" /> -->
 <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalokaradia&theme=tokyonight" /> -->
