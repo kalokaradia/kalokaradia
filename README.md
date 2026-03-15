@@ -6,18 +6,16 @@
 📍 Indonesia &nbsp;•&nbsp; 🌐 Web Development &nbsp;•&nbsp; ⚙️ Tooling & Systems
 </p>
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalokaradia&label=Profile%20views&color=0e75b6&style=flat" alt="kalokaradia" />
-</p> -->
-
 ### About Me
 
 - Student at SMPN 1 Purworejo.
 - Interested in mathematics.
 - Focused on web development and tool development.
 
-<!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/kalokaradia?cardType=github&theme=vue-dark&fontFamily=Poppins&preferLogin=true" /> -->
-<!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalokaradia&theme=tokyonight" /> -->
+### 🎯 Current Focus
+- 🏗️ Building high-performance web systems.
+- 📐 Applying mathematical logic into code.
+- ⚡ Refining developer experience with modern tooling.
 
 ### Languages & Tools
 <p>
@@ -55,3 +53,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="36"/>
   </a>
 </p>
+
+---
+<p align="center"><i>"Mathematics is the music of reason."</i></p>
