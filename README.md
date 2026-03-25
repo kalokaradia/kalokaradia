@@ -54,5 +54,3 @@
   </a>
 </p>
 
----
-<p align="center"><i>"Mathematics is the music of reason."</i></p>
