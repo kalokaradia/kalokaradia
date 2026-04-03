@@ -10,8 +10,8 @@
 
 ### 🧠 About Me
 
-- Student.
-- Likes logic more than memorization.
+- Student at SMPN 1 Purworejo.
+- Math enthusiast.
 - Builds web apps and tools.
 
 ---
