@@ -8,26 +8,17 @@
 
 ---
 
-### 🧠 About Me
+### 👋 About Me
 
 - Student at SMPN 1 Purworejo.
-- Math enthusiast.
 - Builds web apps and tools.
-
----
-
-### 🎯 Current Focus
-
-- Build web systems that scale
-- Apply math for problem solving
-- Work on developer tooling
 
 ---
 
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,expressjs,react,nextjs,vue,nuxt,vite,tailwind,mysql,postgres,go,python,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,bun,tailwind,vite,postgres,supabase,prisma,drizzle,git,github,figma" />
 </p>
 
 ---
