@@ -18,7 +18,7 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,nodejs,bun,tailwind,vite,postgres,supabase,prisma,drizzle,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,python,react,nextjs,nodejs,bun,tailwind,vite,postgres,supabase,prisma,git,github,figma" />
 </p>
 
 ---
@@ -26,15 +26,15 @@
 ### 🤝 Connect
 
 <p align="center">
-  <a href="mailto:kalokaradia@gmail.com">
+  <a href="mailto:kalokaradia@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/kalokaradia">
+  <a href="https://instagram.com/kalokaradia" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/">
+  <a href="https://www.linkedin.com/in/kaloka-radia-nanda-b3ab73366/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
 </p>
